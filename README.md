@@ -2,11 +2,11 @@
 
 ## 🎥 Watch DeepDive Video
 
-Watch the DeepDive Code Session on Our YouTube Channel:
+Watch the DeepDive Crash Course on Our YouTube Channel:
 
 <p align="center">
-    <a href="https://www.youtube.com/channel/UCxgkN3luQgLQOd_L7tbOdhQ">
-        <img src="https://img.shields.io/badge/Watch%20on-YouTube-red" alt="Watch on YouTube">
+    <a href="https://www.youtube.com/watch?v=hbLYM8OxUI0">
+        <img src="https://img.youtube.com/vi/hbLYM8OxUI0/0.jpg" alt="SMOL Agents Crash Course" width="560" height="315">
     </a>
 </p>
 
