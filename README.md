@@ -59,6 +59,13 @@ This repository contains code examples from the SMOL Agents Crash Course, demons
 5. **LangChain Integration**: Use LangChain tools with SMOL Agents
 6. **Multi-Agent Systems**: Build complex systems with multiple agents
 
+## 🎓 Download SMART RESTAURANT SMOL AGENT CODE
+
+### Please consider taking up our Channel membership or joining our course to help us sustain this kind of content. 
+#### We really don't want to restrict any of this premium content to just a few people. But your contribution is necessart for our survival and always appreciated.
+
+- [SMART RESTAURANT SMOL AGENT CODE](https://github.com/avijeett007/Smart_Restaurant_SMOL_Agent)
+
 ### Community and Support
 - Join our community: [Kno2gether Community](https://community.kno2gether.com)
 - Full Production Ready SaaS Launch Course (50% OFF): [End-to-End SaaS Launch Course](https://knolabs.biz/course-at-discount)
