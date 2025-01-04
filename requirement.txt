@@ -1,0 +1,6 @@
+smolagents
+accelerate
+soundfile
+langchain
+langchain-community
+google-search-results
